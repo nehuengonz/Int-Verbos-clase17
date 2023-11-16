@@ -9,5 +9,5 @@ public class IntArtVerbosApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(IntArtVerbosApplication.class, args);
 	}
-
+		
 }
